@@ -52,7 +52,7 @@
   { "name": "Sadr al Asghar", "death": 747, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Jamal al-Deen al-Zaylai", "death": 762, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Orhan I", "death": 764, "primary": "ruler", "specs": ["ruler"] },
-  { "name": "Abu Hafs Ghaznawi", "death": 773, "primary": "fiqh", "specs": ["fiqh"] },
+  { "name": "Abu Hafs Ghaznawi", "death": 773, "primary": "fiqh", "specs": ["fiqh", "aqidah", "tasawwuf"] },
   { "name": "ibn Awghuz Danishmand al-Aqshahri", "death": 773, "primary": "aqidah", "specs": ["aqidah"] },
   { "name": "Al Babarti", "death": 786, "primary": "aqidah", "specs": ["aqidah", "fiqh"] },
   { "name": "Baha al-Din Naqshband", "death": 792, "primary": "tasawwuf", "specs": ["tasawwuf"] },
