@@ -8,8 +8,12 @@
     @mouseleave="$emit('hover', null)"
   >
     <div class="scholar-name">{{ scholar.name }}</div>
-    <span v-if="scholar.death === null" class="living-badge">Living</span>
-    <span v-else class="scholar-death">d. {{ scholar.death }} AH</span>
+    <div class="scholar-dates">
+      <span v-if="scholar.birth">b. {{ scholar.birth }}</span>
+      <span v-if="scholar.birth && scholar.death"> – </span>
+      <span v-if="scholar.death">d. {{ scholar.death }} AH</span>
+      <span v-else-if="!scholar.death"><span class="living-badge">Living</span></span>
+    </div>
     <div class="spec-dots">
       <div
         v-for="spec in scholar.specs"

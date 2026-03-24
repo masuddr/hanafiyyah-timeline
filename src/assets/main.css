@@ -377,12 +377,11 @@ header {
   line-height: 1.35;
 }
 
-.scholar-death {
+.scholar-dates {
   font-size: 0.6rem;
   color: var(--text-dim);
   margin-top: 2px;
   font-variant-numeric: tabular-nums;
-  letter-spacing: 0.02em;
 }
 
 .spec-dots {

@@ -2,7 +2,10 @@
   <div id="tooltip" :class="{ visible: scholar !== null }" :style="position">
     <template v-if="scholar">
       <div class="tt-name">{{ scholar.name }}</div>
-      <div class="tt-death">{{ scholar.death === null ? 'Living Scholar' : `Died ${scholar.death} AH` }}</div>
+      <div class="tt-death">
+        <span v-if="scholar.birth">b. {{ scholar.birth }} – </span>
+        <span>{{ scholar.death === null ? 'Living Scholar' : `d. ${scholar.death} AH` }}</span>
+      </div>
       <div class="tt-tags">
         <span
           v-for="spec in scholar.specs"
