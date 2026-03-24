@@ -44,7 +44,6 @@
   { "name": "Al Zamakhshari", "born": 467, "death": 538, "primary": "tafsir", "specs": ["tafsir", "ulum"] },
   { "name": "Alaʾ al-Din Samarqandi", "death": 539, "primary": "fiqh", "specs": ["fiqh", "aqidah"], "teacher": ["al-Yusr al Bazdawi"] },
   { "name": "Alaʾ al-Din al Asmandi", "death": 552, "primary": "aqidah", "specs": ["aqidah", "fiqh"] },
-  { "name": "Abu Qasim Samarqandi", "death": 556, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Nur Al Din Zengi", "born":511, "death": 569, "primary": "ruler", "specs": ["ruler"] },
   { "name": "Alī Al Ūshī", "death": 575, "primary": "aqidah", "specs": ["aqidah"] },
   { "name": "Nuredin Sabuni", "death": 580, "primary": "aqidah", "specs": ["aqidah"] },
