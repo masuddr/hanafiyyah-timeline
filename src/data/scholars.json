@@ -172,7 +172,7 @@
   { "name": "Ahmed Al Sharif", "death": null, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Faraz Rabbani", "death": null, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Muhammad ibn Adam Al-Kawthari", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah"], "teacher": ["Taqi Usmani", "Yusuf Motala"] },
-  { "name": "Abdur Rahman ibn Yusuf Mangera", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah", "hadith"] },
+  { "name": "Abdur Rahman ibn Yusuf Mangera", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah", "hadith"], "teacher": ["Yusuf Motala"] },
   { "name": "Ahmed al-Damanhuri", "death": null, "primary": "aqidah", "specs": ["aqidah", "mantiq"] },
   { "name": "Nidal Ibrahim Rashi", "death": null, "primary": "aqidah", "specs": ["aqidah"] },
   { "name": "Taqi Usmani", "death": null, "primary": "fiqh", "specs": ["fiqh"], "teacher": ["Muhammad Shafi", "Zakariyya Kandhlawi", "Abd al Fattah Abu Ghudda"] },
