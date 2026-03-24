@@ -38,7 +38,7 @@
   { "name": "Sarakhsi", "death": 483, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Al Halwani"] },
   { "name": "al-Yusr al Bazdawi", "birth": 421, "death": 493, "primary": "aqidah", "specs": ["aqidah", "usulfiqh"], "teacher": ["Abu Hasan Bazdawi", "Al Halwani", "Al Husayn Bazdawi"] },
   { "name": "Abu al-Muʿīn Al Nasafi", "birth": 438, "death": 508, "primary": "aqidah", "specs": ["aqidah", "fiqh"] },
-  { "name": "Abu Ishaq al Saffar Al Bukhari", "death": 534, "primary": "fiqh", "specs": ["fiqh"] },
+  { "name": "Abu Ishaq al Saffar Al Bukhari", "death": 534, "primary": "aqidah", "specs": ["aqidah", "fiqh"] },
   { "name": "Abu Hafs Umar Al Nasafi", "birth": 461, "death": 537, "primary": "aqidah", "specs": ["aqidah", "fiqh","usulfiqh", "tafsir"], "teacher": ["al-Yusr al Bazdawi", "Abu Hasan Bazdawi", "Abu al-Muʿīn Al Nasafi"] },
   { "name": "Alī Al Isbījābī", "death": 537, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Al Zamakhshari", "born": 467, "death": 538, "primary": "tafsir", "specs": ["tafsir", "ulum"] },
