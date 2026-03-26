@@ -217,6 +217,6 @@
   { "name": "Abdur Rahman ibn Yusuf Mangera", "birth": 1394, "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah", "hadith"], "teacher": ["Yusuf Motala"] },
   { "name": "Ahmed Al Damanhuri", "death": null, "primary": "aqidah", "specs": ["aqidah", "mantiq"] },
   { "name": "Nidal Ibrahim Rashi", "death": null, "primary": "aqidah", "specs": ["aqidah"] },
-  { "name": "Taqi Usmani", "birth": 1362, "death": null, "primary": "fiqh", "specs": ["fiqh"], "teacher": ["Muhammad Shafi", "Zakariyya Kandhlawi", "Abd al Fattah Abu Ghudda"] },
+  { "name": "Taqi Usmani", "death": null, "primary": "fiqh", "specs": ["fiqh"], "teacher": ["Muhammad Shafi", "Zakariyya Kandhlawi", "Abd al Fattah Abu Ghudda"] },
   { "name": "Salah Abu Al Haj", "death": null, "primary": "fiqh", "specs": ["fiqh"] }
 ]
