@@ -220,6 +220,11 @@
   { "name": "Ahmed Al Damanhuri", "death": null, "primary": "aqidah", "specs": ["aqidah", "mantiq"] },
   { "name": "Nidal Ibrahim Rashi", "death": null, "primary": "aqidah", "specs": ["aqidah"] },
   { "name": "Ilyas Qadri", "death": null, "primary": "fiqh", "specs": ["fiqh", "tasawwuf"] },
+  { "name": "Mahmud Dahla", "death": null, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"] },
+  { "name": "Abdul Rahman Al Kharsa", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah"] },
+  { "name": "Muhammad Salih Gursi", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah"] },
+  { "name": "Ahmed Rayhaan", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah"] },
+  { "name": "Abdulkader Al Hossayn", "death": null, "primary": "usulfiqh", "specs": ["usulfiqh", "fiqh", "aqidah", "tafsir"] },
   { "name": "Taqi Usmani", "death": null, "primary": "fiqh", "specs": ["fiqh"], "teacher": ["Muhammad Shafi", "Zakariyya Kandhlawi", "Abd al Fattah Abu Ghudda"] },
   { "name": "Salah Abu Al Haj", "death": null, "primary": "fiqh", "specs": ["fiqh"] }
 ]
