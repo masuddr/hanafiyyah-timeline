@@ -7,6 +7,8 @@
     </div>
     <div class="period-count">{{ scholars.length }} scholar{{ scholars.length !== 1 ? 's' : '' }}</div>
 
+    <div class="cards-grid">
+
     <ScholarCard
       v-for="scholar in scholars"
       :key="scholar.name"
@@ -17,6 +19,7 @@
       @click="$emit('card-click', scholar)"
       @hover="$emit('card-hover', $event)"
     />
+    </div>
   </div>
 </template>
 

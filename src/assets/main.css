@@ -551,3 +551,89 @@ header {
 .tt-relation-row.student {
   color: #38B870;
 }
+
+@media (max-width: 768px) {
+
+  /* Header */
+  header {
+    height: auto;
+    flex-wrap: wrap;
+    padding: 10px 14px;
+    gap: 8px;
+  }
+
+  .search-wrap,
+  .v-divider,
+  .title-block .subtitle {
+    display: none;
+  }
+
+  .title-block h1 {
+    font-size: 0.75rem;
+  }
+
+  .legend {
+    margin-left: 0;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .legend-item {
+    font-size: 0.6rem;
+  }
+
+  /* Scroll area */
+  .scroll-area {
+    top: auto;
+    position: relative;
+    overflow: visible;
+    height: auto;
+  }
+
+  /* Timeline track — verticaal */
+  .timeline-track {
+    flex-direction: column;
+    min-width: unset;
+    padding: 10px 12px 50px;
+    gap: 20px;
+  }
+
+  /* Periode kolom — volle breedte */
+  .period-col {
+    min-width: unset;
+    max-width: unset;
+    width: 100%;
+    border-right: none;
+    border-top: 1px solid rgba(200,168,80,0.15);
+    padding: 10px 0 0;
+  }
+
+  /* Kaarten in rijen */
+  .period-col > .scholar-card {
+    display: inline-flex;
+    flex-direction: column;
+    width: calc(50% - 6px);
+    margin: 3px;
+    vertical-align: top;
+  }
+
+  /* Wrapper nodig voor rijen — zie Vue aanpassing hieronder */
+  .cards-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  /* Stats bar */
+  .stats-bar {
+    font-size: 0.58rem;
+    gap: 10px;
+    padding: 0 12px;
+  }
+
+  /* Tooltip uitschakelen op mobiel */
+  #tooltip {
+    display: none;
+  }
+}
