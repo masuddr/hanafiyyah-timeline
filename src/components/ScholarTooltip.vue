@@ -21,7 +21,7 @@
           📖 Teacher(s): {{ teachers.join(', ') }}
         </div>
         <div v-if="students.length" class="tt-relation-row student">
-          👥 Students: {{ students.join(', ') }}
+          👥 Student(s): {{ students.join(', ') }}
         </div>
       </div>
     </template>
