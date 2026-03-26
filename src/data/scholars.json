@@ -178,15 +178,17 @@
   { "name": "Mahmud al Alusi", "birth": 1217, "death": 1270, "primary": "tafsir", "specs": ["tafsir"] },
   { "name": "Hussein Al Dajani", "death": 1274, "primary": "fiqh", "specs": ["fiqh", "aqidah", "tasawwuf"] },
   { "name": "Fazl Haq Khairabadi", "birth": 1212, "death": 1278, "primary": "aqidah", "specs": ["aqidah", "hadith", "mantiq"] },
+  { "name": "Naqi Ali Khan", "death": 1297, "primary": "fiqh", "specs": ["fiqh", "aqidah"] },
   { "name": "Al Maydani", "death": 1298, "primary": "fiqh", "specs": ["fiqh", "aqidah"], "teacher": ["Ibn Abidin"] },
   { "name": "Al Lucknawi", "birth": 1264, "death": 1304, "primary": "fiqh", "specs": ["fiqh", "hadith", "history"] },
   { "name": "Ala Al Din Abidin", "death": 1306, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Shihab Din al Marjani", "death": 1306, "primary": "hadith", "specs": ["hadith", "history", "aqidah"] },
   { "name": "Abdulhamid II", "birth": 1258 , "death": 1336, "primary": "ruler", "specs": ["ruler"] },
   { "name": "Mahmoud Hassan Al Deobandi", "birth": 1268, "death": 1339, "primary": "fiqh", "specs": ["fiqh"] },
-  { "name": "Ahmad Rida Khan", "birth": 1272, "death": 1340, "primary": "fiqh", "specs": ["fiqh", "tasawwuf", "ulum"] },
+  { "name": "Ahmad Rida Khan", "birth": 1272, "death": 1340, "primary": "fiqh", "specs": ["fiqh", "tasawwuf", "ulum"], "teacher": ["Naqi Ali Khan"] },
 
   { "name": "Muhammad Bakhit Al Muti", "death": 1354, "primary": "fiqh", "specs": ["fiqh", "aqidah"] },
+  { "name": "Naeem Dinn Muradabadi", "death": 1367, "primary": "fiqh", "specs": ["fiqh", "aqidah", "tafsir"], "teacher": ["Ahmad Rida Khan"] },
   { "name": "Zahid Kawthari", "birth": 1296, "death": 1371, "primary": "aqidah", "specs": ["aqidah", "hadith", "fiqh", "history"] },
   { "name": "Mustafa Sabri", "birth": 1286, "death": 1373, "primary": "aqidah", "specs": ["aqidah", "mantiq"] },
   { "name": "Hussein Ahmed Al Madani", "birth": 1296, "death": 1377, "primary": "hadith", "specs": ["hadith", "tafsir", "fiqh"], "teacher": ["Mahmoud Hassan Al Deobandi"] },
@@ -217,6 +219,7 @@
   { "name": "Abdur Rahman ibn Yusuf Mangera", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah", "hadith"], "teacher": ["Yusuf Motala"] },
   { "name": "Ahmed Al Damanhuri", "death": null, "primary": "aqidah", "specs": ["aqidah", "mantiq"] },
   { "name": "Nidal Ibrahim Rashi", "death": null, "primary": "aqidah", "specs": ["aqidah"] },
+  { "name": "Ilyas Qadri", "death": null, "primary": "fiqh", "specs": ["fiqh", "tasawwuf"] },
   { "name": "Taqi Usmani", "death": null, "primary": "fiqh", "specs": ["fiqh"], "teacher": ["Muhammad Shafi", "Zakariyya Kandhlawi", "Abd al Fattah Abu Ghudda"] },
   { "name": "Salah Abu Al Haj", "death": null, "primary": "fiqh", "specs": ["fiqh"] }
 ]
