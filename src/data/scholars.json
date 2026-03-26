@@ -210,7 +210,7 @@
 
   { "name": "Abu Bekr Sifil", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah"] },
   { "name": "Muhammad Awwama", "death": null, "primary": "hadith", "specs": ["hadith"], "teacher": ["Abd al Fattah Abu Ghudda"] },
-  { "name": "Hamza Al Bakri", "death": null, "primary": "hadith", "specs": ["hadith", "fiqh"] },
+  { "name": "Hamza Al Bakri", "death": null, "primary": "aqidah", "specs": ["aqidah","hadith"] },
   { "name": "Ahmed Al Sharif", "death": null, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Faraz Rabbani", "death": null, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Muhammad ibn Adam Al Kawthari", "death": null, "primary": "fiqh", "specs": ["fiqh", "aqidah"], "teacher": ["Taqi Usmani", "Yusuf Motala"] },
