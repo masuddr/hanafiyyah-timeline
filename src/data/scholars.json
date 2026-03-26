@@ -7,7 +7,7 @@
   { "name": "Mindal bin Ali", "death": 167, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
   { "name": "Ḥibban bin Ali", "death": 171, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
   { "name": "Nuḥ bin Abi Maryam Al Jami", "death": 173, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
-  { "name": "Al Qasim bin Abdullah bin Masud", "death": 175, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
+  { "name": "Al Qasim Abdullah bin Masud", "death": 175, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
   { "name": "Hammad ibn Abi Hanifa", "death": 176, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
   { "name": "Abdullah bin Al Mubarak Al Marwazi", "death": 181, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
   { "name": "Abu Yusuf","birth": 113, "death": 182, "primary": "fiqh", "specs": ["fiqh", "usulfiqh"], "teacher": ["Abu Hanifa"] },
