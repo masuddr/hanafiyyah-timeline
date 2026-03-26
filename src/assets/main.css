@@ -115,7 +115,7 @@ header {
 .search-wrap {
   position: relative;
   flex-shrink: 0;
-  width: 315px;
+  width: 320px;
 }
 
 .search-wrap svg {
