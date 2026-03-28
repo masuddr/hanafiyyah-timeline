@@ -73,7 +73,7 @@
   { "name": "Ala Din al Asmandi", "death": 552, "primary": "aqidah", "specs": ["aqidah", "fiqh"] },
   { "name": "Nasir Din Al Samarqandi", "death": 556, "primary": "fiqh", "specs": ["fiqh"] },
   { "name": "Nur Al Din Zengi", "birth":511, "death": 569, "primary": "ruler", "specs": ["ruler"] },
-  { "name": "Ali Al Ūshi", "death": 575, "primary": "aqidah", "specs": ["aqidah"] },
+  { "name": "Ali Al Ushi", "death": 575, "primary": "aqidah", "specs": ["aqidah"] },
   { "name": "Nuredin Sabuni", "death": 580, "primary": "aqidah", "specs": ["aqidah"] },
   { "name": "Lamishi", "death": 586, "primary": "aqidah", "specs": ["aqidah", "fiqh", "usulfiqh", "mantiq"], "teacher": ["Abu Al Muin Al Nasafi"] },
   { "name": "Kasani", "death": 587, "primary": "fiqh", "specs": ["fiqh"], "teacher": ["Ala Din Samarqandi", "Abu Al Muin Al Nasafi"] },
